@@ -6,7 +6,7 @@
 
 ### Interest
 - Javascript related frameworks(React, Next, Vuejs, Nuxt, Nodejs, typescript)
-- Google Cloud Platform(Especially, BigQuery)
+- Interactive designs
 - Fullstack(Python, Java related frameworks)
 - Big fan of sports
 
